@@ -10,12 +10,17 @@ package laskuriprojekti;
  * @author miikkas
  */
 public class LaskuriProjekti {
+    private int tapahtumia;
 
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
+    }
+    
+    public Laskuri() {
+        this.tapahtumia = 0;
     }
     
 }
