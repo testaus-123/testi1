@@ -11,6 +11,7 @@ package laskuriprojekti;
  */
 public class LaskuriProjekti {
     private int tapahtumia;
+    private int maksuja;
 
     /**
      * @param args the command line arguments
@@ -21,6 +22,10 @@ public class LaskuriProjekti {
     
     public Laskuri() {
         this.tapahtumia = 0;
+    }
+    
+    public getLaskuri() {
+        return this.tapahtumia;
     }
     
 }
