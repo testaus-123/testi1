@@ -21,8 +21,5 @@ public class LaskuriProjekti {
     }
     
     
-    public getLaskuri() {
-        return this.tapahtumia;
-    }
     
 }
