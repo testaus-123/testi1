@@ -7,7 +7,7 @@ package laskuriprojekti;
 
 /**
  *
- * @author miikka
+ * @author miikkas
  */
 public class LaskuriProjekti {
 
