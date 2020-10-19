@@ -20,9 +20,6 @@ public class LaskuriProjekti {
         // TODO code application logic here
     }
     
-    public Laskuri() {
-        this.tapahtumia = 0;
-    }
     
     public getLaskuri() {
         return this.tapahtumia;
