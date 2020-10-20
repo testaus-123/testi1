@@ -22,7 +22,9 @@ public class Laskuri{
 	public Laskuri(){
 		this.tapahtumia = 0;
 	}
-
+        public void poista() {
+            this.tapahtumia = this.tapahtumia -1;
+        }
   	public void lisaa(){
     		this.tapahtumia = this.tapahtumia + 1; 
   	}
